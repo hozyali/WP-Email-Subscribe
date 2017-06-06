@@ -2,6 +2,7 @@
 WordPress Email Subscribe Plugin, integrated with mailchimp, aweber and getresponse
 
 === WP Email Subscribe ===
+
 Contributors: hozyali
 
 Donate link: http://www.intensewp.com/
