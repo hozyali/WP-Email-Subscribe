@@ -3,13 +3,13 @@ WordPress Email Subscribe Plugin, integrated with mailchimp, aweber and getrespo
 
 === WP Email Subscribe ===
 
-Contributors: hozyali_
-Donate link: http://www.intensewp.com/_
-Tags: email, wordpress forms, mailchimp, getresponse, aweber, popup forms, opt-in forms, lead capture, lead capture, wp forms, popup forms_
-Requires at least: 4.0.1_
-Tested up to: 4.8_
-Stable tag: 1.2_
-License: GPLv2 or later_
+Contributors: hozyali<br />
+Donate link: http://www.intensewp.com/<br />
+Tags: email, wordpress forms, mailchimp, getresponse, aweber, popup forms, opt-in forms, lead capture, lead capture, wp forms, popup forms<br />
+Requires at least: 4.0.1<br />
+Tested up to: 4.8<br />
+Stable tag: 1.2<br />
+License: GPLv2 or later<br />
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Premium design email subscription forms. Store leads on MailChimp, Aweber & GetResponse on the fly.
