@@ -14,8 +14,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Premium design email subscription forms. Store leads on MailChimp, Aweber & GetResponse on the fly.
 
-== Description ==
-
+Description
+------------
 This is really the ultimate solution for all your lead capture needs. Integrates with the top most popular Auto Responders out there. Send your visitors’ information directly to Aweber, MailChimp, GetResponse and many more. 
 
 Features
