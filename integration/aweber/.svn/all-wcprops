@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1668046/wp-ultimate-list/tags/1.2/integration/aweber
+END
+php_errorlog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1668046/wp-ultimate-list/tags/1.2/integration/aweber/php_errorlog
+END
+--get_access_tokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/1668046/wp-ultimate-list/tags/1.2/integration/aweber/--get_access_tokens.php
+END
+functions_aweber.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1668046/wp-ultimate-list/tags/1.2/integration/aweber/functions_aweber.php
+END
+get_access_tokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1668046/wp-ultimate-list/tags/1.2/integration/aweber/get_access_tokens.php
+END
+aweber_setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1668046/wp-ultimate-list/tags/1.2/integration/aweber/aweber_setup.php
+END
