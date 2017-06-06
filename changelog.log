@@ -1,0 +1,10 @@
+= 1.2 =
+* Improved internationalization of the plugin
+* fixed sql warnings in couple of areas ٰ
+* Tested for 4.8
+
+= 1.1 =
+* Updates made to read
+
+= 1.0 =
+* Initial Release
