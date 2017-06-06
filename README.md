@@ -4,7 +4,7 @@ WordPress Email Subscribe Plugin, integrated with mailchimp, aweber and getrespo
 === WP Email Subscribe ===
 Contributors: hozyali
 Donate link: http://www.intensewp.com/
-Tags: wordpress forms, mailchimp, getresponse, aweber, popup forms, opt-in forms, lead capture, lead capture, wp forms, popup forms
+Tags: email, wordpress forms, mailchimp, getresponse, aweber, popup forms, opt-in forms, lead capture, lead capture, wp forms, popup forms
 Requires at least: 4.0.1
 Tested up to: 4.8
 Stable tag: 1.2
@@ -44,27 +44,10 @@ Video Tutorials
 * [How to Connect MailChimp with WP Email Subscribe](https://youtu.be/rqiCs-aLc1Y "How to Connect MailChimp with WP Email Subscribe")
 * [Creating your First Newsletter Form with WP Email Subscribe](https://youtu.be/vsMd47DZ89k "Creating your First Newsletter Form with WP Email Subscribe")
 
-== Installation ==
-
+Installation
+------------------------------
 1. Upload `wp-ultimate-list` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You should see WP Ultimate List tab on left panel
 
-== Screenshots ==
 
-1. Select Form Design and Customize
-2. Detailed Analytics & Stats Data
-3. Store Subscribers Locally & Auto Responder Service. Export List
-
-== Changelog ==
-= 1.2 =
-* Improved internationalization of the plugin
-* fixed sql warnings in couple of areas
-ٰ* Tested for 4.8
-
-
-= 1.1 =
-* Updates made to read
-
-= 1.0 =
-* Initial Release
