@@ -1,8 +1,8 @@
 # WP-Email-Subscribe
 WordPress Email Subscribe Plugin, integrated with mailchimp, aweber and getresponse
 
-=== WP Email Subscribe ===
-
+WP Email Subscribe
+------------------------
 Contributors: hozyali<br />
 Donate link: http://www.intensewp.com/<br />
 Tags: email, wordpress forms, mailchimp, getresponse, aweber, popup forms, opt-in forms, lead capture, lead capture, wp forms, popup forms<br />
